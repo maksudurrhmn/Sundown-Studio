@@ -9,7 +9,7 @@
 
   /* Hero section */
   #hero-section {
-    height: 45vh !important;
+    height: 50vh !important;
   }
   .hero-container {
     flex-direction: column-reverse;
@@ -134,14 +134,13 @@
     width: 80% !important;
   }
   .top-left h4 {
-    font-size: 12vw !important;
+    font-size: 5vh !important;
   }
   .top-right {
     width: 80% !important;
   }
   .top-right h4 {
-    font-size: 5vw !important;
-    font-weight: 400;
+    font-size: 3vh !important;
   }
   .top-right input {
     font-size: 5vw !important;
@@ -149,18 +148,17 @@
   .footer-bottom ul {
     flex-direction: column;
     align-items: center;
+    margin-bottom: 2vw;
   }
   .footer-bottom ul li {
-    font-size: 4vw !important;
+    font-size: 2vh !important;
   }
   .shape-1 {
-    height: 50vh !important;
-    width: 80vw !important;
     border-radius: 0% !important;
   }
   .shape-2 {
-    height: 50vh !important;
-    width: 80vw !important;
+    /* height: 50vh !important; */
+    /* width: 80vw !important; */
     border-radius: 0% !important;
   }
 }
