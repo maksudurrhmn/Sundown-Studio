@@ -1,6 +1,6 @@
 # Sundown-Studio Website
 
-![Sundown Studio Preview](https://i.imgur.com/your-screenshot.png) <!-- Replace with your actual screenshot URL -->
+![Sundown Studio Preview](https://instasize.com/api/image/f6839221e20bb1c1fa8db54d55066bf570e6fde7ffd05c47c63223d1cad3abeb.png) <!-- Replace with your actual screenshot URL -->
 
 A modern, responsive, and animation-rich creative agency website built using **HTML, CSS, JavaScript, GSAP, and Locomotive Scroll**.  
 This project was created as a front-end practice build to improve smooth scrolling, animations, and interactive UI design.
