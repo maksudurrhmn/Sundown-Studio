@@ -1,11 +1,9 @@
 // Loader animation
 let loader = document.querySelector('#loader');
 
-function loaderAnimation() {
-  loader.style.top = '-100%';
-}
-
-setTimeout(loaderAnimation, 4000);
+setTimeout(() => {
+  loader.style.top = '-120%';
+}, 4000);
 
 // Lenis js
 const lenis = new Lenis({

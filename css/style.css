@@ -106,6 +106,15 @@ nav ul li:hover .btn-animation {
   border-radius: 50px;
   z-index: -1;
 }
+.hamburger-icon {
+  font-size: 10vw;
+  border: 1px solid #917e78dc;
+  padding: 0 1rem;
+  border-radius: 1rem;
+  overflow: hidden;
+  cursor: pointer;
+  display: none;
+}
 
 /* Hero section */
 #hero-section {

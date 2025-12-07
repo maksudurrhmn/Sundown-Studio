@@ -23,6 +23,9 @@
   .right h1 {
     font-size: 15vw !important;
   }
+  .hamburger-icon {
+    display: block !important;
+  }
 
   /* Moving section */
   #moving-section {
