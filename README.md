@@ -37,7 +37,7 @@ This project was created as a front-end practice build to improve smooth scrolli
 ---
 
 ## 🌐 Live Demo
-**🔗 Live Website:** [Sundown Studio](https://sundownstudio-web.netlify.app)  
+**🔗 Live Website:** [Sundown Studio](https://sundownstudio-web.vercel.app)  
 **🔗 GitHub Repo:** [Sundown Studio Repo](https://github.com/maksudurrhmn/Sundown-Studio)
 
 ---
